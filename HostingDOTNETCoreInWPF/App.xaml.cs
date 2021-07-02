@@ -26,7 +26,7 @@ namespace HostingDOTNETCoreInWPF
 #endif
         private MainWindow mMainWindow;
 
-        private static string WEBROOT = @"S:\w\HostingDOTNETCoreInWPF\MVC5\wwwroot\";
+        private static string WEBROOT = @"S:\w\ExtServer\MVC5\wwwroot\";
 
 #if GENERICHOST
 
